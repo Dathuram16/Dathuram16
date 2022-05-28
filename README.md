@@ -1,7 +1,7 @@
 - <h1 align="center">Hi 👋, I'm Dathu Ram Reddy Papannagari from Hyderabad, aspiring Full stack web developer </h1>
 - 👀 I’m interested in learning new technologies.
-- 🌱 I’m currently learning Full stack
-- 👯 I am open to work as Full Stack Web Developer
+- 🌱 I’m currently learning Back-end
+- 👯 I am open to work as Back-End Stack Web Developer
 - 💭 Motivation : Life begins at the end of comfort zone
 
 - 👨‍💻 All of my projects are available at [https://zesty-gelato-e9f6d9.netlify.app/project](https://zesty-gelato-e9f6d9.netlify.app/project)
