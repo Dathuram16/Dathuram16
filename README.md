@@ -1,4 +1,4 @@
-- <h1 align="center">Hi 👋, I'm Dathu Ram Reddy Papannagari from Hyderabad, aspiring Full stack web developer </h1>
+- <h1 align="center">Hi 👋, I'm Dathu Ram Reddy Papannagari from Hyderabad, aspiring back-end developer </h1>
 - 👀 I’m interested in learning new technologies.
 - 🌱 I’m currently learning Back-end
 - 👯 I am open to work as Back-End Stack Web Developer
