@@ -1,8 +1,10 @@
-- <h1 align="center">Hi 👋, I'm Dathu Ram Reddy Papannagari from Hyderabad, Aspiring back-end developer </h1>
+<h1 align="center">Hi 👋, I'm Dathu Ram Reddy Papannagari</h1>
+<h2 align ="center"> Software Devloper from Hyderabad</h2>
+<img align="right" src="https://number8.com/wp-content/uploads/2021/01/2021-software-development-salary-trends.png" alt ="Developer" height="450" width="300"/>
 - 💻 I’m a Backend & Java Developer
 - 🌱 I’m currently learning Spring Boot.
 - 👀 I’m interested in learning new technologies.
-- 💭 Motivation : Life begins at the end of comfort zone
+- 💭 Motivation: Life begins at the end of the comfort zone.
 - 📫 How to reach me **ram.papannagari@gmail.com**
 - 🗺️ Want to know more? Check out my portfolio here <a href="https://drive.google.com/file/d/1A6t5CM21tuck6vbNuRFdbZW8gU4O6laH/view">🌐</a>
 
