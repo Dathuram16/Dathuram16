@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dathu Ram Reddy Papannagari</h1>
-<h2 align ="center"> Software developer from Hyderabad</h2>
-<img align="right" src="https://number8.com/wp-content/uploads/2021/01/2021-software-development-salary-trends.png" alt ="Developer" height="450" width="300"/>
+<h2 align ="center"> Software Developer from Hyderabad</h2>
+<img align="right" src="https://number8.com/wp-content/uploads/2021/01/2021-software-development-salary-trends.png" alt ="Developer" height="350" width="300"/>
 
 - 💻 I’m a Backend & Java Developer
 - 🌱 I’m currently learning Spring Boot.
