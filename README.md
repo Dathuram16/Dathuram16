@@ -10,7 +10,7 @@
 - 👀 I’m interested in learning new technologies.
 - 💭 Motivation: Life begins at the end of the comfort zone.
 - 📫 How to reach me **ram.papannagari@gmail.com**
-- 🗺️ Want to know more? Check out my portfolio here <a href="https://drive.google.com/file/d/1A6t5CM21tuck6vbNuRFdbZW8gU4O6laH/view">🌐</a>
+- 🗺️ Want to know more? Check out my portfolio <a href="https://dathu-ram-reddy-papanngari.netlify.app/">here</a>🌐
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
